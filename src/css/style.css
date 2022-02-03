@@ -1,0 +1,32 @@
+/* Header */
+
+#wrapper{
+    margin:20px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+#header{
+    overflow: hidden;
+}
+#hList{
+    overflow: auto;
+}
+#hList ul{
+    display: inline-flex;
+    float: right;
+    text-align: right;
+}
+#hList li{
+    list-style: none;
+    /* padding:10px; */
+    margin: 5px;
+}
+#hpara{
+    padding: 5px;
+    /* background-color: #efefef; */
+}
+#hpara h2{
+    padding-left: 2%;
+}
