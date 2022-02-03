@@ -79,7 +79,9 @@ ul{
 .content {
   text-align: center;
 }
-
+#footer{
+    padding: 2%;
+}
 @media only screen and (max-width: 600px) {
     #heading{
         display: block;
