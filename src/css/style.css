@@ -82,6 +82,12 @@ ul{
 #footer{
     padding: 2%;
 }
+#footer1{
+    float:left;
+}
+#footer2{
+    float: right;
+}
 @media only screen and (max-width: 600px) {
     #heading{
         display: block;
